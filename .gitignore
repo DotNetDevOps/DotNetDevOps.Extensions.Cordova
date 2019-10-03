@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/DotNetDevOps.Extensions.Cordova
+/apps/DotNetDevOps.extensions.Cordova.SimulatorClient/bin/Debug/netcoreapp3.0
+/apps/DotNetDevOps.extensions.Cordova.SimulatorClient/obj
+/apps/DotNetDevOps.extensions.Cordova.SimulatorHost/bin/Debug/netcoreapp3.0
+/apps/DotNetDevOps.extensions.Cordova.SimulatorHost/obj
